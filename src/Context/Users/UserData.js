@@ -3,7 +3,7 @@ const Users = [
       
      
       " studentname": "bopanna",
-       "email": "percy.kris@email.com",
+       "email": "bops@email.com",
        "branch": "Marketing ",
        "school": "sms",
       
@@ -12,7 +12,7 @@ const Users = [
       
     
        "studentname": "chinnu",
-       "email": "terrance.nolan@email.com",
+       "email": "chinnu@email.com",
        "branch": "coading",
        "school": "lions",
        
@@ -21,7 +21,7 @@ const Users = [
        
      
        "studentname": "dumma",
-       "email": "wilmer.armstrong@email.com",
+       "email": "dms@email.com",
        "branch": "Future Community-Services Planner",
        "school": "roots",
        
@@ -30,7 +30,7 @@ const Users = [
        
       
        "studentname": "ponni",
-       "email": "dane.paucek@email.com",
+       "email": "pon@email.com",
        "branch": "National Developer",
        "school": "sms",
        
@@ -39,7 +39,7 @@ const Users = [
        
     
        "studentname": "uthappa",
-       "email": "violeta.howe@email.com",
+       "email": "uthu@email.com",
        "branch": "Internal Hospitality Developer",
        "school": "antonys",
       
@@ -48,7 +48,7 @@ const Users = [
        
       
        "studentname": "arun",
-       "email": "wilson.torphy@email.com",
+       "email": "aru@email.com",
        "branch": "Construction Specialist",
        "school": "sms",
        
@@ -57,7 +57,7 @@ const Users = [
       
       
        "studentname": "vivek",
-       "email": "deon.feeney@email.com",
+       "email": "viv@email.com",
        "branch": "Design Producer",
        "school": "lions",
       
@@ -65,7 +65,7 @@ const Users = [
     {
        
        "studentname": "sajan",
-       "email": "erick.langworth@email.com",
+       "email": "sajju@email.com",
        "branch": "Community-Services Representative",
        "school": "lions",
        "feeplan": "Bronze"
@@ -74,7 +74,7 @@ const Users = [
       
      
        "studentname": "dilhan",
-       "email": "mario.grady@email.com",
+       "email": "dilly@email.com",
        "branch": "Technology Architect",
        "school": "sms",
       
@@ -83,7 +83,7 @@ const Users = [
       
     
        "studentname": "cheethu",
-       "email": "iesha.krajcik@email.com",
+       "email": "cheethu@email.com",
        "branch": "Government Developer",
        "school": "loods",
        
